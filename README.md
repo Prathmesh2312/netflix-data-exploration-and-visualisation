@@ -1,4 +1,4 @@
-# 🎬 Netflix Case Study – Data Exploration & Visualization
+# 🎬 Netflix – Data Exploration & Visualization
 
 ## 📌 Introduction
 Netflix is one of the world’s most popular video streaming platforms, with over 220M+ subscribers globally (as of 2021). It offers a vast catalog of movies and TV shows across multiple genres and countries.  
